@@ -1,0 +1,53 @@
+name: boulderball
+description: Boulderball App
+
+publish_to: "none"
+
+version: 1.1.7+19
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.1.1
+  cloud_firestore: ^4.0.4
+  firebase_storage: ^11.0.4
+  firebase_auth: ^4.1.2
+  flutter_easyloading: ^3.0.5
+  in_app_purchase: ^3.0.8
+  cached_network_image: ^3.2.3
+  animations: ^2.0.7
+  carousel_slider: ^4.2.1
+  url_launcher: ^6.1.7
+  video_player: ^2.5.1
+  dependency_validator: ^3.2.2
+  google_sign_in: ^6.0.2
+  full_screen_image: ^2.0.0
+  youtube_player_flutter: ^8.1.2
+  photo_view: ^0.14.0
+  flutter_email_sender: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/backgrounds/
+    - assets/assembly/
+    - assets/
+    - assets/htp/
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/icon-old.png"
+  adaptive_icon_background: #ff122D3C
+  adaptive_icon_foreground: "assets/icon-old.png"

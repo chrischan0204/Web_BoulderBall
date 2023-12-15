@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1034479472102",
+    "project_id": "boulderball-b3d59",
+    "storage_bucket": "boulderball-b3d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034479472102:android:430912b011ab3629f5da27",
+        "android_client_info": {
+          "package_name": "com.boulderball.boulderball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034479472102-26e9qccu859nr7jetc2bigr4hlg57i5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boulderball.boulderball",
+            "certificate_hash": "e5ed1ef3a9871bab54dc3c23b75c2054d150e39d"
+          }
+        },
+        {
+          "client_id": "1034479472102-2gc5oat7rj2oevr464fj9oh8jd00cgfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boulderball.boulderball",
+            "certificate_hash": "930491afaeb70c2fbddeb9f8aef224ca14afb705"
+          }
+        },
+        {
+          "client_id": "1034479472102-i9430oer2j7721i78kq8le93napjn6j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boulderball.boulderball",
+            "certificate_hash": "7e0c084caa49d426e852cc1892265beedaec9a1d"
+          }
+        },
+        {
+          "client_id": "1034479472102-u8j7at6ce4k177fo5uk2du23o7iq1c9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCg9zlzlI7aORfnD4tMtZFr1vANumWz_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034479472102-o4jdu6c043qjlto380dv0dcee5gm2v2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034479472102-gluj2jnlgi9agpjon1t6lj72titpq1n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boulderball"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
